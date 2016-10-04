@@ -1,9 +1,7 @@
 typings
 system-config.js*
-aoo/**/*js
+app/**/*.js
 app/**/*.map
 node_modules
 jspm_packages
 bower_components
-*.swp
-*.swo
