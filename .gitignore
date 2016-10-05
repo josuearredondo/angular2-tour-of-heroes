@@ -6,4 +6,6 @@ node_modules
 jspm_packages
 bower_components
 npm-debug.log*
-app/*.js
+app/app.component.js
+app/app.module.js
+app/main.js
